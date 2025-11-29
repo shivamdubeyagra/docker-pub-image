@@ -17,6 +17,7 @@ docker run -p 3000:3000 shivamdubeyagra/hello-docker:latest
 ```
 http://localhost:3000
 ```
+You will see:
 ```
 Hello World!
 ```
